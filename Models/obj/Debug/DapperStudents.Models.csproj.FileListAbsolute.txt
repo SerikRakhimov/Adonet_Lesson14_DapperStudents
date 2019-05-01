@@ -1,0 +1,14 @@
+C:\Users\РахимовС\source\repos\DapperStudents\Models\obj\Debug\DapperStudents.Models.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\DapperStudents\Models\obj\Debug\DapperStudents.Models.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\DapperStudents\Models\bin\Debug\Models.dll.config
+C:\Users\РахимовС\source\repos\DapperStudents\Models\bin\Debug\Models.dll
+C:\Users\РахимовС\source\repos\DapperStudents\Models\bin\Debug\Models.pdb
+C:\Users\РахимовС\source\repos\DapperStudents\Models\obj\Debug\Models.dll
+C:\Users\РахимовС\source\repos\DapperStudents\Models\obj\Debug\Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\bin\Debug\Models.dll.config
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\bin\Debug\Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\bin\Debug\Models.pdb
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\obj\Debug\DapperStudents.Models.csprojAssemblyReference.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\obj\Debug\DapperStudents.Models.csproj.CoreCompileInputs.cache
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\obj\Debug\Models.dll
+D:\РахимовСерик\My\AcademyStep\VisualStudioProjects\ADONET\DapperStudents\Models\obj\Debug\Models.pdb
